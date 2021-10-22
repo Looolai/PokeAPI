@@ -6,3 +6,5 @@
 ### Searching for already existing Pokemon APIS.
 ## Danil:
 ### Testing out the Imeretta phpokeapi.
+## Dates:
+### Finish the project by the end of the week.
